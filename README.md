@@ -4,7 +4,8 @@ Author: mobpsycho
 
 Description: A clean and simple farming tracker for FFXI (Ashita v4). Tracks mobs, drops, gil, and gives you drop rates. Has a clean UI with a mini mode.
 
-What It Does
+What It Does:
+
 FarmTracker keeps track of your farming sessions in real time:
 
 Tracks mob kills (including which mob dropped what)
