@@ -24,11 +24,11 @@ UI comes with full window and mini overlay mode
 
 Saves your settings and session stats
 
-How To Use It
-Commands
-Use /farm in-game to control the addon:
+How To Use It:
 
-Command	What It Does
+Commands
+
+Use /farm in-game to control the addon:
 
 /farm	Toggles the main UI window
 
@@ -92,12 +92,16 @@ Make sure you create the folder if it doesn't exist.
 
 No extra dependencies beyond what's available in Ashita:
 
-imgui
-
-json
-
-bit operations (standard Lua 5.1 / Ashita helpers)
-
 Final Thoughts
+
 FarmTracker is lightweight, no-nonsense, and does exactly what it says.
+
 If you're grinding mobs and want a breakdown of what you're actually getting for your time — this is for you.
+
+Coming Soon:
+
+Analytics tab
+
+This will save each session. This will allow you to view each session to compare droprates or comparing THrates. 
+
+This will also store weekly and monthly to compare weeks and months.
